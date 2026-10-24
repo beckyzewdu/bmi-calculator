@@ -22,4 +22,10 @@ This is a beginner Python project that calculates Body Mass Index (BMI) using a 
 4. Enter your weight in kilograms and height in meters.
 
 ## Author
+
 Bereket Zewdu Tafese
+If the user enters:
+- Weight: 60 kg
+- Height: 1.60 m
+
+The program calculates a BMI of 23.44 and displays the category "Normal weight".
